@@ -1,5 +1,0 @@
-[mappings]
-"Bourne Again Shell (bash)" = [
-    # used by lots of shells
-    "/etc/profile",
-]
